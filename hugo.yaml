@@ -51,6 +51,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  favicon: "/favicon.ico"
   label: 
     text: "inscient"
     icon: "images/HG.png"
